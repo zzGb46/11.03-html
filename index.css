@@ -15,3 +15,8 @@ h1{
     justify-content: center;
     height: 600px;
 }
+
+p{
+    color: violet;
+    font-size: 80px;
+}
